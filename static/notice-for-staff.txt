@@ -1,0 +1,31 @@
+URGENT NOTICE: Staff Email Addresses Compromised
+
+Dear Staff,
+
+We regret to inform you that there has been a security breach, and the email addresses and passwords of some staff members have been compromised. Please be vigilant and take this sad news with a grain of salt.
+
+Below is a list of affected staff members:
+
+1. Name: Anil Sharma--------- Email: 1cefb7513ceed5b9ddf099f9faa513ef
+
+2. Name: Priya Patel--------- Email: 959560ea4f3afdb5e3ffa4c534bff461
+
+3. Name: Rajesh Kumar-------- Email: 6d3ecface3d50a561c891fe392833f96
+
+4. Name: Aarti Singh--------- Email: f9db350c587134b90de6463241d8246f
+
+5. Name: Vikas Gupta--------- Email: 957e00a608c87facb1da94836de6ce58
+
+6. Name: Neha Mehta---------- Email:  d45f99adde12aea68e454661d825dbe4
+
+7. Name: admin--------------- Email: 00bffe6e8984a4c2ee27dbcdde1a540e
+
+8. Name: Sanya Rao----------- Email: 59c95f7029a5e422b4f67b9dcd7f70c5
+
+9. Name: Aman Joshi---------- Email: 041c941bd8fa151af2f3b54b093b7c73
+
+
+Please take necessary precautions to secure your accounts.
+
+Thank you,
+The IT Security Team
